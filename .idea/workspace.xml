@@ -4,116 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71290052-fae8-44c2-b3fb-7ed5101ed981" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="927176b8-55bb-4e78-ab87-3c59a7f97334" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="JpbToolWindowState">
-    <option name="myId2FirstActivated">
-      <map>
-        <entry key="JPA Inspector" value="true" />
-        <entry key="JPA Palette" value="true" />
-        <entry key="JPA Structure" value="true" />
-      </map>
-    </option>
-    <option name="myId2Visible">
-      <map>
-        <entry key="JPA Inspector" value="false" />
-        <entry key="JPA Palette" value="false" />
-        <entry key="JPA Structure" value="false" />
-      </map>
-    </option>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="C:\Users\Alireza\.m2\repository" />
-        <option name="workOffline" value="true" />
-      </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="jdkForImporter" value="11" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="MavenRunner">
-    <option name="jreName" value="11" />
-  </component>
-  <component name="ProjectId" id="2cU7MJefcKUSGWaknI1Kvlki270" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2cZUhmqG1ysaiUXhdPfhIwy7fBp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="DatabaseDriversLRU" value="mysql" />
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="21 (2)" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\MyGitProjects\Java\spring-cloud\services-room\src\main\resources" />
-      <recent name="E:\MyGitProjects\Java\spring-cloud\services-room\src\main\resources\static" />
-      <recent name="E:\MyGitProjects\Java\spring-cloud\customer\src\main\resources" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\MyGitProjects\Java\spring-cloud" />
-      <recent name="E:\MyGitProjects\Java\spring-cloud\customer\src\main\resources\static" />
-      <recent name="E:\MyGitProjects\Java\spring-cloud\customer\src\main\resources" />
-    </key>
-  </component>
-  <component name="RunAnythingCache">
-    <option name="myCommands">
-      <command value="mvn deploy" />
-      <command value="mvn clean" />
-    </option>
-  </component>
-  <component name="RunDashboard">
-    <option name="configurationTypes">
-      <set>
-        <option value="SpringBootApplicationConfigurationType" />
-      </set>
-    </option>
+    <property name="jdk.selected.JAVA_MODULE" value="17" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MyGitProjects/Java/spring-cloud" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
   </component>
   <component name="RunManager">
-    <configuration name="ServicesRoomApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="services-room" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.webkaiser.services.room.ServicesRoomApplication" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+    <configuration name="CustomerservicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="customerservices" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.webkaiser.customerservices.CustomerservicesApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -122,43 +36,17 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="71290052-fae8-44c2-b3fb-7ed5101ed981" name="Default Changelist" comment="" />
-      <created>1708154256827</created>
+      <changelist id="927176b8-55bb-4e78-ab87-3c59a7f97334" name="Default Changelist" comment="" />
+      <created>1708318719049</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1708154256827</updated>
-      <workItem from="1708154258345" duration="1214000" />
-      <workItem from="1708162016180" duration="8445000" />
-      <workItem from="1708238136141" duration="1173000" />
-      <workItem from="1708240482291" duration="1251000" />
-      <workItem from="1708242274901" duration="5160000" />
-      <workItem from="1708251536151" duration="797000" />
-      <workItem from="1708278450951" duration="193000" />
-      <workItem from="1708318520399" duration="27000" />
-      <workItem from="1708318576649" duration="137000" />
+      <updated>1708318719049</updated>
+      <workItem from="1708318720915" duration="373000" />
+      <workItem from="1708319247894" duration="182000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
